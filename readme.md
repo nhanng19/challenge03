@@ -1,4 +1,4 @@
-# 02_Passwrod_Generator_NN
+# 03_Password_Generator_NN
 BootCamp Homework - 03 JavaScript: Password Generator
 
 ## The Challenge
