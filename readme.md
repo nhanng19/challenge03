@@ -65,5 +65,5 @@ After modifying the JavaSript file, we were able to provide a secure, clean, and
 This project was uploaded to GitHub at the following respository link:
 [https://github.com/nhanng19/challenge03](https://github.com/nhanng19/challenge03)
 
-Depolyed Web Application Link:
+Deployed Web Application Link:
 [https://nhanng19.github.io/challenge03/develop/index](https://nhanng19.github.io/challenge03/Develop/index)
