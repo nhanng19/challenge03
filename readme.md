@@ -1,5 +1,5 @@
 # 03_Password_Generator_NN
-BootCamp Homework - 03 JavaScript: Password Generator
+JavaScript: Password Generator
 
 ## The Challenge
 This week's Challenge requires you to modify starter code to create an application that enables employees to generate random passwords based on criteria that they’ve selected. 
